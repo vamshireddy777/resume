@@ -1,0 +1,13 @@
+*{
+    background: white;
+}
+h2{
+    color: blue;
+    font-style: normal;
+    font-weight: bold;
+}
+p{
+    color: black;
+    font-style: italic;
+}
+
